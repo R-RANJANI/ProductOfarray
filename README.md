@@ -7,7 +7,7 @@ public class ProductOfArray {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int[]arr=new int[]{1,2,3,4,5};
+        int[]arr=new int[]{2,5,6,7,8};
         int product=1;
             for (int i = 1; i<arr.length; i++)
             {
